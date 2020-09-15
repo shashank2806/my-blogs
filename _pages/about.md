@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I work as Data Scientist. I want to understand things clearly, and explain them well.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[Resume](https://shashankshekhar.me/resume.pdf)
+[GitHub](https://github.com/shashank2806)
+[LinkedIn](linkedin.com/in/shashank2806/)
